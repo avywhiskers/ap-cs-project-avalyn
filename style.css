@@ -1,0 +1,79 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #cdffcc;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+  color: rgb(189, 76, 131)
+}
+
+a:hover {
+  color: rgb(0, 30, 255);
+}
+
+header {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-bottom: 1px solid rgb(236, 75, 193);
+}
+
+header h1 {
+  font-size: 2em;
+}
+
+header nav ul li {
+  display: inline;
+}
+
+.clear {
+  clear: both;
+}
+#project-container {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 600px;
+}
+.project {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(255, 133, 228);
+}
+
+.project img {
+  width: 250px;
+  float: left;
+  margin-right: 10px;
+  padding-bottom: 10px;
+}
+
+.project h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#project-container, #aboutme {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 600px;
+}
+
+.project {
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgb(236, 75, 193);
+}
+
+.project img, #aboutme img {
+  width: 250px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.project h2, #aboutme h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px
+}
+
