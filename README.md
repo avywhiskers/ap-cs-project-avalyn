@@ -1,2 +1,2 @@
 # ap-cs-project-avalyn
-So I made this for my AP Comp. Sci. class, this has my projects and things related to schoolwork/engineering.
+This is a website of my past school/personal projects.
